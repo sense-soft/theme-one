@@ -1,5 +1,5 @@
 {
-  "name": "@vuepress/theme-default",
+  "name": "@idaas/theme-one",
   "version": "2.0.0-rc.37",
   "description": "Default theme of VuePress",
   "keywords": [
@@ -8,14 +8,14 @@
     "theme",
     "default"
   ],
-  "homepage": "https://ecosystem.vuejs.press/themes/default/",
+  "homepage": "https://github.com/sense-soft/theme-one",
   "bugs": {
-    "url": "https://github.com/vuepress/ecosystem/issues"
+    "url": "https://github.com/sense-soft/theme-one/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vuepress/ecosystem.git",
-    "directory": "themes/theme-default"
+    "url": "git+https://github.com/sense-soft/theme-one.git",
+    "directory": "themes/theme-one"
   },
   "license": "MIT",
   "author": "meteorlxy",

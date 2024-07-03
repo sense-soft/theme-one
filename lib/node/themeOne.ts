@@ -1,3 +1,4 @@
+// @ts-ignore
 import type { Theme } from 'vuepress/core';
 import type { DefaultThemeLocaleOptions, DefaultThemePluginsOptions } from '../shared/index.js';
 export interface DefaultThemeOptions extends DefaultThemeLocaleOptions {
@@ -11,4 +12,4 @@ export interface DefaultThemeOptions extends DefaultThemeLocaleOptions {
      */
     themePlugins?: DefaultThemePluginsOptions;
 }
-export declare const defaultTheme: ({ hostname, themePlugins, ...localeOptions }?: DefaultThemeOptions) => Theme;
+export declare const themeOne: ({ hostname, themePlugins, ...localeOptions }?: DefaultThemeOptions) => Theme;
